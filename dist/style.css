@@ -1,0 +1,11 @@
+html {
+    font-family: monospace;
+    color: black;
+    font-size: 2rem;
+}
+
+button {
+    background-color: aqua;
+    font-weight: 900;
+    font-size: 2rem;
+}
